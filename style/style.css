@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#interviewer{
+    color: beige;
+}
+
+#person{
+    color:deeppink;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    margin: 60px;
+    text-align: justify;
+}
+
+#translate{
+    font-size: 15px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.text{
+    font-size: 20px;
+    color: aqua;
+    margin-bottom: 20px;
+}
+
